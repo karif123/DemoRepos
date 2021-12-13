@@ -21,5 +21,7 @@ public class SeleniumTest {
 		System.out.println("SeleniumLogoutDevelop");
 		//By Arch X
 		System.out.println("It is develop branch worked by X Aarch");
+		//By Arch Y
+		System.out.println("It is develop branch worked by Y Aarch");
 	}
 }
