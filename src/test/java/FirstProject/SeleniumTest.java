@@ -15,4 +15,11 @@ public class SeleniumTest {
 	public void SeleniumLogout() {
 		System.out.println("SeleniumLogout");
 	}
+	
+	@Test
+	public void SeleniumLogoutDevelop() {
+		System.out.println("SeleniumLogoutDevelop");
+		//By Arch X
+		System.out.println("It is develop branch worked by X Aarch");
+	}
 }

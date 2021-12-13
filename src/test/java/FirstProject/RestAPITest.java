@@ -19,4 +19,10 @@ public class RestAPITest {
 		System.out.println("RestAPILogout");
 	}
 
+	@Test
+	public void RestAPILogoutDevelop() {
+		System.out.println("RestAPILogoutDevelop");
+		//By Arch X
+		System.out.println("It is develop branch worked by X Aarch");
+	}
 }

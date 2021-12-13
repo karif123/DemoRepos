@@ -13,4 +13,11 @@ public class AppiumTest {
 	public void AppiumLogout() {
 		System.out.println("AppiumLogout");
 	}
+	
+	@Test
+	public void AppiumLogoutDevelop() {
+		System.out.println("AppiumLogoutDevelop");
+		//By Arch X
+		System.out.println("It is Develop bracch worked by X Aarch");
+	}
 }
